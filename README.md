@@ -13,7 +13,14 @@ O objetivo é praticar estruturas de decisão (`if / else if / else`) e entrada 
 
 ## Como executar
 1. Clone o repositório:
-```bash
+
 git clone https://github.com/kaiquejw/Missao-3.git
 
 
+2. Entre na pasta do projeto:
+
+cd Missao-3
+
+3. Execute o programa:
+
+dotnet run
