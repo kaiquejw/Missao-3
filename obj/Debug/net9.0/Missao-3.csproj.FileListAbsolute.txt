@@ -1,0 +1,14 @@
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\bin\Debug\net9.0\Missao-3.exe
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\bin\Debug\net9.0\Missao-3.deps.json
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\bin\Debug\net9.0\Missao-3.runtimeconfig.json
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\bin\Debug\net9.0\Missao-3.dll
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\bin\Debug\net9.0\Missao-3.pdb
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\obj\Debug\net9.0\Missao-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\obj\Debug\net9.0\Missao-3.AssemblyInfoInputs.cache
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\obj\Debug\net9.0\Missao-3.AssemblyInfo.cs
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\obj\Debug\net9.0\Missao-3.csproj.CoreCompileInputs.cache
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\obj\Debug\net9.0\Missao-3.dll
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\obj\Debug\net9.0\refint\Missao-3.dll
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\obj\Debug\net9.0\Missao-3.pdb
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\obj\Debug\net9.0\Missao-3.genruntimeconfig.cache
+C:\Users\kaiqu\OneDrive\Documentos\ProjetosC#\Missao-3\obj\Debug\net9.0\ref\Missao-3.dll
